@@ -14,9 +14,9 @@ export default function Navbar() {
       <Image
         src="/logo.png"
         alt="Sylvio Machado – Decision Intelligence"
-        width={200}
-        height={50}
-        className="h-9 w-auto object-contain"
+        width={280}
+        height={90}
+        className="h-11 w-auto object-contain"
         priority
       />
     </motion.header>
